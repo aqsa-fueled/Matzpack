@@ -67,16 +67,26 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "13C382C01DB7517900C5B957"
-            BuildableName = "Matzpack.app"
-            BlueprintName = "Matzpack"
+            BlueprintIdentifier = "13C382C41DB7517A00C5B957"
+            BuildableName = "HumboldtHouseStickerPack.appex"
+            BlueprintName = "HumboldtHouseStickerPack"
             ReferencedContainer = "container:Matzpack.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "13C382C41DB7517A00C5B957"
+            BuildableName = "HumboldtHouseStickerPack.appex"
+            BlueprintName = "HumboldtHouseStickerPack"
+            ReferencedContainer = "container:Matzpack.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
