@@ -1,4 +1,219 @@
 {
+  "stickers" : [
+    {
+      "filename" : "prana_barn.sticker"
+    },
+    {
+      "filename" : "prana_basil.sticker"
+    },
+    {
+      "filename" : "prana_beehive.sticker"
+    },
+    {
+      "filename" : "prana_beekeepersuit.sticker"
+    },
+    {
+      "filename" : "prana_brownalpaca.sticker"
+    },
+    {
+      "filename" : "prana_brownegg.sticker"
+    },
+    {
+      "filename" : "prana_chicken.sticker"
+    },
+    {
+      "filename" : "prana_deadalpaca.sticker"
+    },
+    {
+      "filename" : "prana_diningtable.sticker"
+    },
+    {
+      "filename" : "prana_goat.sticker"
+    },
+    {
+      "filename" : "prana_goatcheeselog.sticker"
+    },
+    {
+      "filename" : "prana_goatmilk.sticker"
+    },
+    {
+      "filename" : "prana_logo.sticker"
+    },
+    {
+      "filename" : "prana_mainhouse.sticker"
+    },
+    {
+      "filename" : "prana_nesthouse.sticker"
+    },
+    {
+      "filename" : "prana_pond.sticker"
+    },
+    {
+      "filename" : "prana_sauna.sticker"
+    },
+    {
+      "filename" : "prana_skinnydipping.sticker"
+    },
+    {
+      "filename" : "prana_slippers.sticker"
+    },
+    {
+      "filename" : "prana_teepee.sticker"
+    },
+    {
+      "filename" : "prana_tractor.sticker"
+    },
+    {
+      "filename" : "prana_turtle.sticker"
+    },
+    {
+      "filename" : "prana_whitealpaca.sticker"
+    },
+    {
+      "filename" : "prana_yogapose.sticker"
+    },
+    {
+      "filename" : "ryland_bktobkk.sticker"
+    },
+    {
+      "filename" : "ryland_buddha.sticker"
+    },
+    {
+      "filename" : "ryland_cake.sticker"
+    },
+    {
+      "filename" : "ryland_elephant.sticker"
+    },
+    {
+      "filename" : "ryland_foodcart.sticker"
+    },
+    {
+      "filename" : "ryland_hands.sticker"
+    },
+    {
+      "filename" : "ryland_hongthong.sticker"
+    },
+    {
+      "filename" : "ryland_jeremyonraya.sticker"
+    },
+    {
+      "filename" : "ryland_khaosoi.sticker"
+    },
+    {
+      "filename" : "ryland_ladyboi.sticker"
+    },
+    {
+      "filename" : "ryland_monkey.sticker"
+    },
+    {
+      "filename" : "ryland_monkeythrowingshit.sticker"
+    },
+    {
+      "filename" : "ryland_muaythai.sticker"
+    },
+    {
+      "filename" : "ryland_palmtree.sticker"
+    },
+    {
+      "filename" : "ryland_raya.sticker"
+    },
+    {
+      "filename" : "ryland_ryanking.sticker"
+    },
+    {
+      "filename" : "ryland_ryanonelephant.sticker"
+    },
+    {
+      "filename" : "ryland_samesame.sticker"
+    },
+    {
+      "filename" : "ryland_temple.sticker"
+    },
+    {
+      "filename" : "ryland_thaibeer.sticker"
+    },
+    {
+      "filename" : "ryland_thaicoconuts.sticker"
+    },
+    {
+      "filename" : "ryland_thaicrown.sticker"
+    },
+    {
+      "filename" : "ryland_thaifishingboat.sticker"
+    },
+    {
+      "filename" : "ryland_thaiking.sticker"
+    },
+    {
+      "filename" : "ryland_thaimoney.sticker"
+    },
+    {
+      "filename" : "ryland_tuktuk.sticker"
+    },
+    {
+      "filename" : "ryland_usatothailand.sticker"
+    },
+    {
+      "filename" : "standard_abc.sticker"
+    },
+    {
+      "filename" : "standard_blanket.sticker"
+    },
+    {
+      "filename" : "standard_cactus.sticker"
+    },
+    {
+      "filename" : "standard_deadalpaca.sticker"
+    },
+    {
+      "filename" : "standard_echo.sticker"
+    },
+    {
+      "filename" : "standard_farmer.sticker"
+    },
+    {
+      "filename" : "standard_figtreething.sticker"
+    },
+    {
+      "filename" : "standard_flowershortssuit.sticker"
+    },
+    {
+      "filename" : "standard_fueled.sticker"
+    },
+    {
+      "filename" : "standard_givoncheysweater.sticker"
+    },
+    {
+      "filename" : "standard_humboldthouse.sticker"
+    },
+    {
+      "filename" : "standard_indoorteepee.sticker"
+    },
+    {
+      "filename" : "standard_pranafarms.sticker"
+    },
+    {
+      "filename" : "standard_pump.sticker"
+    },
+    {
+      "filename" : "standard_randomhotgirl.sticker"
+    },
+    {
+      "filename" : "standard_ryandoll.sticker"
+    },
+    {
+      "filename" : "standard_ryansfeet.sticker"
+    },
+    {
+      "filename" : "standard_ryansglasses.sticker"
+    },
+    {
+      "filename" : "standard_thaicoconuts.sticker"
+    },
+    {
+      "filename" : "standard_westelmcatalog.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
